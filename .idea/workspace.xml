@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b109a24c-f7c9-43b3-abda-e82386075a7e" name="Changes" comment="ben bunları bunları yaptım">
+    <list default="true" id="b109a24c-f7c9-43b3-abda-e82386075a7e" name="Changes" comment="test1">
       <change beforePath="$PROJECT_DIR$/store/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/store/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
       <workItem from="1651220227897" duration="228000" />
       <workItem from="1651583257640" duration="29000" />
       <workItem from="1651823350102" duration="530000" />
-      <workItem from="1651839953997" duration="362000" />
+      <workItem from="1651839953997" duration="700000" />
     </task>
     <task id="LOCAL-00001" summary="e2">
       <created>1651180653371</created>
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651840058929</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test1">
+      <created>1651841660046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651841660046</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +123,7 @@
     <MESSAGE value="e2" />
     <MESSAGE value="Sunucu Push 1" />
     <MESSAGE value="ben bunları bunları yaptım" />
-    <option name="LAST_COMMIT_MESSAGE" value="ben bunları bunları yaptım" />
+    <MESSAGE value="test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1" />
   </component>
 </project>
