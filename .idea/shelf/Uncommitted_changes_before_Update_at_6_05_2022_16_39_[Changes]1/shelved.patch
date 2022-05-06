@@ -1,0 +1,45 @@
+Index: .github/workflows/main.yml
+===================================================================
+diff --git a/.github/workflows/main.yml b/.github/workflows/main.yml
+deleted file mode 100644
+--- a/.github/workflows/main.yml	(revision 0b86ae230296d5a8364b7416b743fb698bd0e2cc)
++++ /dev/null	(revision 0b86ae230296d5a8364b7416b743fb698bd0e2cc)
+@@ -1,38 +0,0 @@
+-# This is a basic workflow to help you get started with Actions
+-
+-name: CI-SFTP
+-
+-# Controls when the workflow will run
+-on:
+-  # Triggers the workflow on push or pull request events but only for the main branch
+-  pull_request:
+-    branches: [ main ]
+-
+-  # Allows you to run this workflow manually from the Actions tab
+-  workflow_dispatch:
+-
+-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+-jobs:
+-  # This workflow contains a single job called "build"
+-  deploy-via-sftp:
+-    # The type of runner that the job will run on
+-    runs-on: ubuntu-latest
+-
+-    # Steps represent a sequence of tasks that will be executed as part of the job
+-    steps:
+-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+-      - uses: actions/checkout@v2
+-
+-      # Runs a single command using the runners shell
+-      - name: SFTP DEPLOY
+-        uses: wlixcc/SFTP-Deploy-Action@v1.2.1
+-        with: 
+-          username: 'root'
+-          server: '188.166.158.254'
+-          port: 22
+-          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }} 
+-          local_path: './*'
+-          remote_path: '/var/www/html'
+-          args: '-o ConnectTimeout=5'
+-          exclude: |
+-            store
