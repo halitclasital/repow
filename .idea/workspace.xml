@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b109a24c-f7c9-43b3-abda-e82386075a7e" name="Changes" comment="Sunucu Push 1">
+    <list default="true" id="b109a24c-f7c9-43b3-abda-e82386075a7e" name="Changes" comment="ben bunları bunları yaptım">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -56,7 +56,9 @@
       <updated>1651174340918</updated>
       <workItem from="1651174343491" duration="678000" />
       <workItem from="1651180495845" duration="1728000" />
-      <workItem from="1651220227897" duration="7000" />
+      <workItem from="1651220227897" duration="228000" />
+      <workItem from="1651583257640" duration="29000" />
+      <workItem from="1651823350102" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="e2">
       <created>1651180653371</created>
@@ -72,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651185911517</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ben bunları bunları yaptım">
+      <created>1651220250828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651220250828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="e2" />
     <MESSAGE value="Sunucu Push 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sunucu Push 1" />
+    <MESSAGE value="ben bunları bunları yaptım" />
+    <option name="LAST_COMMIT_MESSAGE" value="ben bunları bunları yaptım" />
   </component>
 </project>
