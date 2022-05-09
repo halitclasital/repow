@@ -25,7 +25,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: SFTP DEPLOY
-        uses: halitclasital/sftp-deploy@v1.2
+        uses: halitclasital/sftp-deploy@v1.3
         with: 
           username: 'root'
           server: '188.166.158.254'
