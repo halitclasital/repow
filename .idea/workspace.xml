@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b109a24c-f7c9-43b3-abda-e82386075a7e" name="Changes" comment="store deploy testddew3422">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/development_files/text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/text.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +35,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28RLEbkzMSNPUHXWwBISFAJojZ9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -54,7 +64,7 @@
       <updated>1651174340918</updated>
       <workItem from="1651174343491" duration="159000" />
       <workItem from="1651943900829" duration="7000" />
-      <workItem from="1652081989282" duration="3327000" />
+      <workItem from="1652081989282" duration="3392000" />
     </task>
     <task id="LOCAL-00001" summary="32321312">
       <created>1651844557543</created>
@@ -105,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652107149358</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="store deploy testddew3422">
+      <created>1652113411618</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652113411618</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
