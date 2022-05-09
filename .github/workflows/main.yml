@@ -25,12 +25,13 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: SFTP DEPLOY
-        uses: halitclasital/sftp-deploy@v1.0
+        uses: halitclasital/sftp-deploy@v1.1
         with: 
           username: 'root'
           server: '188.166.158.254'
           port: 22
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }} 
-          local_path: './store index.html'
+          local_path: './*'
           remote_path: '/var/www/html/'
           args: '-o ConnectTimeout=5'
+          exclude: './store2/*'
