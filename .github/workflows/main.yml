@@ -25,7 +25,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: SFTP DEPLOY
-        uses: halitclasital/sftp-deploy@v1.1
+        uses: halitclasital/sftp-deploy@v1.8
         with: 
           username: 'root'
           server: '188.166.158.254'
@@ -34,4 +34,4 @@ jobs:
           local_path: './*'
           remote_path: '/var/www/html/'
           args: '-o ConnectTimeout=5'
-          exclude: './store2/*'
+          exclude: ./store2/* ./store/* 
