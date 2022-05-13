@@ -5,22 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b109a24c-f7c9-43b3-abda-e82386075a7e" name="Changes" comment="store deploy testddew3422">
-      <change afterPath="$PROJECT_DIR$/api/text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/text.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/text.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/text.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/development_files/text.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/text.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/text.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/text.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/text.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_05_2022_16_39_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_05_2022_16_39__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/text" beforeDir="false" afterPath="$PROJECT_DIR$/app/text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/text.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
@@ -54,6 +51,15 @@
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/routes" />
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/development_files" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +70,9 @@
       <updated>1651174340918</updated>
       <workItem from="1651174343491" duration="159000" />
       <workItem from="1651943900829" duration="7000" />
-      <workItem from="1652081989282" duration="3392000" />
+      <workItem from="1652081989282" duration="4691000" />
+      <workItem from="1652170797246" duration="6000" />
+      <workItem from="1652450723428" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="32321312">
       <created>1651844557543</created>
@@ -122,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652113411618</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="store deploy testddew3422">
+      <created>1652113710426</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652113710426</updated>
+    </task>
+    <task id="LOCAL-00010" summary="store deploy testddew3422">
+      <created>1652115399986</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652115399986</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
