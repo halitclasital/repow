@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b109a24c-f7c9-43b3-abda-e82386075a7e" name="Changes" comment="store deploy testddew3422">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_05_2022_16_39_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_05_2022_16_39__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/text" beforeDir="false" afterPath="$PROJECT_DIR$/app/text" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/text.php" afterDir="false" />
+    <list default="true" id="b109a24c-f7c9-43b3-abda-e82386075a7e" name="Changes" comment="store deploy testddew3fdsfds422">
+      <change afterPath="$PROJECT_DIR$/server.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +68,7 @@
       <workItem from="1651943900829" duration="7000" />
       <workItem from="1652081989282" duration="4691000" />
       <workItem from="1652170797246" duration="6000" />
-      <workItem from="1652450723428" duration="23000" />
+      <workItem from="1652450723428" duration="286000" />
     </task>
     <task id="LOCAL-00001" summary="32321312">
       <created>1651844557543</created>
@@ -144,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652115399986</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="store deploy testddew3fdsfds422">
+      <created>1652450791774</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1652450791774</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +170,7 @@
     <MESSAGE value="store deploy test342" />
     <MESSAGE value="store deploy test3422" />
     <MESSAGE value="store deploy testddew3422" />
-    <option name="LAST_COMMIT_MESSAGE" value="store deploy testddew3422" />
+    <MESSAGE value="store deploy testddew3fdsfds422" />
+    <option name="LAST_COMMIT_MESSAGE" value="store deploy testddew3fdsfds422" />
   </component>
 </project>
