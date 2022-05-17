@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b109a24c-f7c9-43b3-abda-e82386075a7e" name="Changes" comment="store deploy testddew3fdsfds422">
-      <change afterPath="$PROJECT_DIR$/app/test1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test2/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_05_2022_17_37_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_05_2022_17_37__Changes_.xml" beforeDir="false" />
+    <list default="true" id="b109a24c-f7c9-43b3-abda-e82386075a7e" name="Changes" comment="SFTP DEPloy tst">
+      <change afterPath="$PROJECT_DIR$/app/test2/test2.1/test21.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config/config22/config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <workItem from="1652170797246" duration="6000" />
       <workItem from="1652450723428" duration="954000" />
       <workItem from="1652691049401" duration="6000" />
-      <workItem from="1652781371508" duration="170000" />
+      <workItem from="1652781371508" duration="575000" />
     </task>
     <task id="LOCAL-00001" summary="32321312">
       <created>1651844557543</created>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652451086597</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="SFTP DEPloy tst">
+      <created>1652782061157</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1652782061157</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +191,7 @@
     <MESSAGE value="store deploy test3422" />
     <MESSAGE value="store deploy testddew3422" />
     <MESSAGE value="store deploy testddew3fdsfds422" />
-    <option name="LAST_COMMIT_MESSAGE" value="store deploy testddew3fdsfds422" />
+    <MESSAGE value="SFTP DEPloy tst" />
+    <option name="LAST_COMMIT_MESSAGE" value="SFTP DEPloy tst" />
   </component>
 </project>
